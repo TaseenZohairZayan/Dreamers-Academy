@@ -1,0 +1,15 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	background: azure;
+}
+.course{
+	color: #EEAC1F;
+	text-align: center;
+}
+.explore{
+	text-align: center;
+	font-size: 40px;
+	margin-top: 0px;
+	color: #0e1133;
+	font-weight: 600;
+}
